@@ -3,12 +3,12 @@
   <channel>
     <title>Posts on Welcome to my virtual home</title>
     <link>http://example.org/posts/</link>
-    <description>Recent content in Posts on Welcome to my virtual home</description>
+    <description>Welcome to my virtual home (Posts)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 04 Aug 2020 11:24:32 +0700</lastBuildDate>
     
-	<atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,7 +17,8 @@
       <pubDate>Tue, 04 Aug 2020 11:24:32 +0700</pubDate>
       
       <guid>http://example.org/posts/first-post/</guid>
-      <description>Hello this is my first post. Have a good day.</description>
+      <description>&lt;p&gt;Hello this is my first post. Have a good day.&lt;/p&gt;
+</description>
     </item>
     
   </channel>
