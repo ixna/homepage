@@ -10,7 +10,7 @@ html {
 
 body {
     margin: 0;
-    font-size: 18px;
+    font-size: 16px;
     line-height: 1.5;
     -webkit-font-smoothing: antialiased;
     color: var(--font-color);
@@ -197,6 +197,7 @@ header nav a {
 
 .site-title {
     white-space: nowrap;
+    font-weight: bold;
 }
 
 .common-header {
@@ -415,7 +416,7 @@ article figcaption {
     border-top: thin solid var(--hr-color);
     padding-top: 1.5em;
     margin-top: 3em;
-    font-size: 16px;
+    font-size: 10px;
 }
 
 .common-footer-bottom {
