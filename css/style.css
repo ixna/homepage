@@ -15,6 +15,21 @@ body {
     -webkit-font-smoothing: antialiased;
     color: var(--font-color);
     background: var(--bg-color);
+    animation-name: chcolor;
+    animation-duration: 3s;
+    animation-delay: 0s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-out;
+    animation-direction: alternate;
+}
+
+@keyframes chcolor {
+    0% {
+        background-color: #222
+    }
+    100% {
+        background-color: #444;
+    }
 }
 
 article,
@@ -173,6 +188,7 @@ header a {
 }
 
 header h1 {
+    color: var(--font-color);
     font-size: 1em;
     margin-top: 1em;
     margin-bottom: 0;
@@ -196,6 +212,7 @@ header nav a {
 }
 
 .site-title {
+    color: var(--font-color);
     white-space: nowrap;
     font-weight: bold;
 }
