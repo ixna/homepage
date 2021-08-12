@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Virtual Home</title>
+    <title>Posts on {&#39;Life&#39;, &#39;Programming&#39;, &#39;Technology&#39;}</title>
     <link>https://sna.web.id/posts/</link>
-    <description>Virtual Home (Posts)</description>
+    <description>{&#39;Life&#39;, &#39;Programming&#39;, &#39;Technology&#39;} (Posts)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 04 Aug 2020 11:24:32 +0700</lastBuildDate>

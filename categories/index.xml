@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Virtual Home</title>
+    <title>Categories on {&#39;Life&#39;, &#39;Programming&#39;, &#39;Technology&#39;}</title>
     <link>https://sna.web.id/categories/</link>
-    <description>Virtual Home (Categories)</description>
+    <description>{&#39;Life&#39;, &#39;Programming&#39;, &#39;Technology&#39;} (Categories)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
